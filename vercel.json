@@ -11,6 +11,5 @@
         }
     ],
     "outputDirectory": "public",
-    "buildCommand": null,
-    "installCommand": "composer install"
+    "buildCommand": null
 }
